@@ -8,6 +8,7 @@
 
 4) FFNetworksUsingPyTorch.ipynb: same as above but instead using PyTorch.
 
+5) LargeCNNs.ipynb: Used different CNN architectures like Residual Net, VGG, Inception and densenet to classify CIFAR 10 dataset.
 
 Note: To create these scripts a lot of learning is taken from 10-785 Intro to deep learning http://deeplearning.cs.cmu.edu/
 and PadhAI https://padhai.onefourthlabs.in/ tought by IIT Madras Professors Mitesh Khapra and Pratyush Kumar. 
